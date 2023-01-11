@@ -1,0 +1,16 @@
+.notFound {
+  max-width: 160px;
+}
+
+.notFoundImg {
+  width: 80px;
+  display: block;
+  margin: 0 auto 40px;
+}
+
+.notFound p {
+  margin: 0;
+  color: var(--secondary);
+  text-align: center;
+  font-size: 24px;
+}
